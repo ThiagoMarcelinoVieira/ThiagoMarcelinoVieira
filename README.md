@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Thiago+Marcelino+Vieira;Estudante+de+Desenvolvimento+de+Sistemas;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing Animation" />
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Thiago+Marcelino+Vieira;Estudante+de+Desenvolvimento+de+Sistemas;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <em>Transformando ideias em código e construindo o futuro, uma linha de cada vez.</em>
@@ -34,8 +36,8 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em criar 
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiago Marcelino Vieira&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago Marcelino Vieira&theme=transparent&hide_border=true&fire=0969DA&ring=0969DA" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoMarcelinoVieira&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoMarcelinoVieira&theme=transparent&hide_border=true&fire=0969DA&ring=0969DA" width="48%" alt="GitHub Streak" />
 </p>
 
 ---

@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Thiago+Marcelino+Vieira;Estudante+de+Desenvolvimento+de+Sistemas;Bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thiago+Marcelino+Vieira)](https://git.io/typing-svg)
 
 <p align="center">
   <em>Transformando ideias em código e construindo o futuro, uma linha de cada vez.</em>
@@ -12,10 +8,14 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em criar soluções intuitivas e eficientes. Busco sempre manter meu código limpo e aplicar as melhores práticas de desenvolvimento.
+Sou estudante do Ensino Médio no SESI 265 e desenvolvedor Full Stack em formação, com grande interesse pela área de tecnologia, especialmente no desenvolvimento web.
+
+Concluí os cursos de Operador de Microcomputador (6 meses) e Programador Backend (6 meses) pelo CEDESP, adquirindo base sólida em lógica de programação, PHP, MySQL e estruturação de sistemas. Atualmente, estou me aprofundando em desenvolvimento Frontend por meio de um curso Full Stack online da Rocketseat.
+
+Sou uma pessoa proativa, comunicativa e com facilidade para aprender. Gosto de transformar ideias em soluções funcionais e de trabalhar em equipe. Busco uma oportunidade de estágio ou jovem aprendiz em programação, onde eu possa evoluir tecnicamente e contribuir com projetos reais.
 
 - 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
-- 🌱 Em constante aprendizado, explorando novas tecnologias e frameworks.
+- 🌱 Em constante aprendizado, faço curso **FullStack online da Rocketseat**.
 - 💡 Gosto de resolver problemas complexos através da lógica e da programação.
 - 🤝 Aberto a oportunidades, conexões profissionais e colaborações em projetos.
 
@@ -24,11 +24,15 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em criar 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 </p>
 
 ---
@@ -50,5 +54,8 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em criar 
   </a>
   <a href="mailto:thiagomarcelino897@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://wa.me/5511997861438" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>

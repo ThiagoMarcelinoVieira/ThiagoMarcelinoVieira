@@ -34,8 +34,8 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em criar 
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=transparent&hide_border=true&fire=0969DA&ring=0969DA" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiago Marcelino Vieira&show_icons=true&theme=transparent&hide_border=true&title_color=0969DA&icon_color=0969DA" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago Marcelino Vieira&theme=transparent&hide_border=true&fire=0969DA&ring=0969DA" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -43,10 +43,10 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e focado em criar 
 ## 📬 Como me encontrar
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://linkedin.com/in/thiago-marcelino-vieira-b544b9395" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:thiagomarcelino897@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>

@@ -24,7 +24,6 @@ Sou uma pessoa proativa, comunicativa e com facilidade para aprender. Gosto de t
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-<p align="center">
 <img 
     align="left" 
     alt="HTML"
@@ -81,7 +80,6 @@ Sou uma pessoa proativa, comunicativa e com facilidade para aprender. Gosto de t
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-</p>
 </p>
 
 ---

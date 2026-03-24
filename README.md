@@ -102,7 +102,8 @@ Sou uma pessoa proativa, comunicativa e com facilidade para aprender. Gosto de t
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulportolopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
----
+<br/>
+<br/>
 
 ## 📬 Como me encontrar
 

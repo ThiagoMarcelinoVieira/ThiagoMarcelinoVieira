@@ -1,6 +1,4 @@
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thiago+Marcelino+Vieira)](https://git.io/typing-svg)
-</p>
 
 <p align="center">
   <em>Transformando ideias em código e construindo o futuro, uma linha de cada vez.</em>

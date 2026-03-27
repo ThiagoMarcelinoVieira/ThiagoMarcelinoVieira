@@ -32,39 +32,35 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🌐 Frontend
-<p align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Banco de Dados
-<p align="left">
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🧰 Ferramentas, SO & Outros
-<p align="left">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,mysql,linux,git&theme=dark&perline=9" alt="Tecnologias" />
+  </a>
 </p>
 
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
 
-> **Nota:** Os dados abaixo são atualizados dinamicamente com base nos meus commits e repositórios!
+### 🔥 Sequência de Contribuições
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThiagoMarcelinoVieira&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMarcelinoVieira&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarcelinoVieira&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
+### 📈 Gráfico de Atividade
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoMarcelinoVieira&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
-<br/>
+### 📌 Visão Geral Detalhada
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Repos por Linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Linguagens mais commitadas" />
+</p>
 
 ---
 

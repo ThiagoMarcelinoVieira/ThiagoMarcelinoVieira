@@ -59,7 +59,6 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Repos por Linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Linguagens mais commitadas" />
 </p>
 
 ---

@@ -63,15 +63,16 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
 
 ---
 
-## 📬 Vamos nos conectar?
+## 📬 Contatos
 
-Seja para falar sobre código, trocar dicas sobre Linux Mint, discutir sobre futebol ou oportunidades de trabalho, sinta-se à vontade para me chamar!
+Seja para falar sobre código, trocar dicas sobre Linux Mint ou oportunidades de trabalho, sinta-se à vontade para me chamar!
 
 <p align="center">
   <a href="https://linkedin.com/in/thiago-marcelino-vieira-b544b9395" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://api.iconify.design/bi:linkedin.svg?color=%230077b5" alt="LinkedIn" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5511997861438" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://api.iconify.design/bi:whatsapp.svg?color=%2325D366" alt="WhatsApp" width="40" height="40" />
   </a>
 </p>

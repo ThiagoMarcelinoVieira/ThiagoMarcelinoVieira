@@ -33,9 +33,15 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mysql,sqlite,linux,windows,git,github&theme=dark&perline=6" alt="Tecnologias" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mysql,sqlite,linux,mint,windows,git,github&theme=dark&perline=7" alt="Tecnologias" />
+</p>
+
+## 📦 Pacote Office
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" title="Word" alt="Word" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" title="PowerPoint" alt="PowerPoint" width="50" height="50"/>&nbsp;&nbsp;
 </p>
 
 ---

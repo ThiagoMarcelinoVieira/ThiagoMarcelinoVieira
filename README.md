@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo...;Construindo+o+futuro,+uma+linha+de+cada+vez.;Estudante+de+Desenvolvimento+Full+Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo...;Construindo+o+futuro,+uma+linha+de+cada+vez.;Estudante+de+Desenvolvimento+Full+Stack;Desenvolvedor+Web" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@ Sou estudante do Ensino Médio no SESI e apaixonado por resolver problemas compl
 
 Gosto de criar desde interfaces web dinâmicas até a estruturação do banco de dados nos bastidores. Sou comunicativo, proativo e adoro colocar a mão na massa (seja codando ou fazendo manutenção de hardware nas horas vagas!). 
 
-- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
+- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI SP**.
 - 🚀 Aprimorando minhas habilidades com o curso **Full Stack da Rocketseat**.
 - 🛠️ Possuo formação técnica pelo CEDESP em **Operação de Microcomputadores** e **Programação Backend** (PHP e MySQL).
 - 🎯 **Meu objetivo:** Encontrar uma oportunidade de estágio ou jovem aprendiz para evoluir tecnicamente e agregar valor a projetos reais.
@@ -34,28 +34,19 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,mysql,linux,git&theme=dark&perline=9" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mysql,sqlite,linux,windows,git,github&theme=dark&perline=6" alt="Tecnologias" />
   </a>
 </p>
 
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-
-### 🔥 Sequência de Contribuições
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ThiagoMarcelinoVieira&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
 ### 📈 Gráfico de Atividade
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoMarcelinoVieira&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ### 📌 Visão Geral Detalhada
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Profile Details" />
-</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoMarcelinoVieira&theme=tokyonight" alt="Repos por Linguagem" />
@@ -65,7 +56,9 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
 
 ## 📬 Contatos
 
-Seja para falar sobre código, trocar dicas sobre Linux Mint ou oportunidades de trabalho, sinta-se à vontade para me chamar!
+<p>
+  Seja para falar sobre código, trocar dicas sobre Linux Mint ou oportunidades de trabalho, sinta-se à vontade para me chamar!
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/thiago-marcelino-vieira-b544b9395" target="_blank">

@@ -74,4 +74,8 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
   <a href="https://wa.me/5511997861438" target="_blank">
     <img src="https://api.iconify.design/bi:whatsapp.svg?color=%2325D366" alt="WhatsApp" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:thiagomarcelino897@gmail.com" target="_blank">
+    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="40" height="40" />
+  </a>
 </p>

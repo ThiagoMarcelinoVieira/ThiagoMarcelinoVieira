@@ -38,11 +38,13 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
 
 ## 📦 Pacote Office
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png" title="Word" alt="Word" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" title="PowerPoint" alt="PowerPoint" width="50" height="50"/>&nbsp;&nbsp;
-</p>
+<div align="center">
+  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="50" alt="Excel" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/vscode-icons:file-type-word.svg" width="50" alt="Word" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/vscode-icons:file-type-powerpoint.svg" width="50" alt="PowerPoint" />
+</div>
 
 ---
 
@@ -62,20 +64,10 @@ Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos
 
 ## 📬 Contatos
 
-<p>
-  Seja para falar sobre código, trocar dicas sobre Linux Mint ou oportunidades de trabalho, sinta-se à vontade para me chamar!
-</p>
+Seja para falar sobre código, trocar dicas sobre Linux Mint ou oportunidades de trabalho, sinta-se à vontade para me chamar!
 
-<p align="center">
-  <a href="https://linkedin.com/in/thiago-marcelino-vieira-b544b9395" target="_blank">
-    <img src="https://api.iconify.design/bi:linkedin.svg?color=%230077b5" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5511997861438" target="_blank">
-    <img src="https://api.iconify.design/bi:whatsapp.svg?color=%2325D366" alt="WhatsApp" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:thiagomarcelino897@gmail.com" target="_blank">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" width="40" height="40" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://api.iconify.design/bi:linkedin.svg?color=%230077b5&width=40)](https://linkedin.com/in/thiago-marcelino-vieira-b544b9395) &nbsp;&nbsp;&nbsp;&nbsp; [![WhatsApp](https://api.iconify.design/bi:whatsapp.svg?color=%2325D366&width=40)](https://wa.me/5511997861438) &nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://api.iconify.design/logos:google-gmail.svg?width=40)](mailto:thiagomarcelino897@gmail.com)
+
+</div>

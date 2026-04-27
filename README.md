@@ -22,18 +22,10 @@ Gosto de criar desde interfaces web dinâmicas até a estruturação do banco de
 
 ---
 
-## 🚀 O que estou construindo & aprendendo
-
-Além dos meus estudos regulares, aplico meu conhecimento desenvolvendo projetos práticos:
-- 🌐 **Sistemas Web:** Desenvolvendo aplicações full stack completas e interativas, atuando desde a modelagem estrutural do banco de dados no backend até a construção de interfaces responsivas no frontend.
-- 🐧 **Ambiente e Infraestrutura:** Meu ecossistema principal de desenvolvimento é o **Linux**, o que me garante bastante familiaridade com terminais, controle de permissões e configuração de ambientes de desenvolvimento.
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mysql,sqlite,linux,mint,windows,git,github&theme=dark&perline=7" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mysql,sqlite,postgres,linux,mint,windows,git,github&theme=dark&perline=7" alt="Tecnologias" />
 </p>
 
 ## 📦 Pacote Office

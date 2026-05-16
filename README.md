@@ -55,7 +55,7 @@ Gosto de criar desde interfaces web dinâmicas até a estruturação do banco de
 
 ## 📬 Contatos
 
-Seja para falar sobre código, trocar dicas sobre Linux Mint ou oportunidades de trabalho, sinta-se à vontade para me chamar!
+Seja para falar sobre código, trocar dicas sobre Linux Mint ou outra coisa, sinta-se à vontade para me chamar!
 
 <div align="center">
 

@@ -25,7 +25,7 @@ Gosto de criar desde interfaces web dinâmicas até a estruturação do banco de
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mysql,sqlite,postgres,linux,mint,windows,git,github&theme=dark&perline=7" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mysql,sqlite,linux,git&theme=dark&perline=5" alt="Tecnologias" />
 </p>
 
 ## 📦 Pacote Office
